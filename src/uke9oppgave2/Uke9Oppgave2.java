@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package uke9oppgave2;
-
+asdasdas
 import javax.swing.JFrame;
 
 /**
