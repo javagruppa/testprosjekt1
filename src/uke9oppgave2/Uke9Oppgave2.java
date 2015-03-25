@@ -6,6 +6,7 @@
 package uke9oppgave2;
 asdasdasasdasdasd
 jhjhljjhklhlkhl
+sdgshsfhh
 import javax.swing.JFrame;
 
 /**
