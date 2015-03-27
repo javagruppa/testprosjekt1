@@ -9,6 +9,7 @@ import java.awt.event.*;
 /**
  *
  * @author André
+ * @version 
  */
 public class WordCounter extends JFrame {
     
@@ -35,6 +36,7 @@ public class WordCounter extends JFrame {
         setTitle("Word Count");
         chooseB = new JButton("Choose file");
         chooseB.addActionListener(new InputListener());
+
         
         characterField = new JTextField(10);
         characterField.setEditable(false);
